@@ -1,0 +1,23 @@
+{
+  "name": "sevden",
+  "version": "0.0.1",
+  "description": "Sev's personal webpage",
+  "main": "",
+  "dependencies": {
+    "bulma": "^0.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsryberg/SevDen.git"
+  },
+  "author": "David Severin Ryberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dsryberg/SevDen/issues"
+  },
+  "homepage": "https://github.com/dsryberg/SevDen#readme"
+}
