@@ -4,6 +4,7 @@
 */.ipynb_checkpoints/*
 __pycache__/
 node_modules/*
+.sass-cache/*
 
 # file types to ignore
 #*.ipynb

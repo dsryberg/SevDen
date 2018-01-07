@@ -3,6 +3,9 @@
 @import "node_modules/bulma/sass/utilities/functions";
 
 // 2. Set your own initial variables
+// Update breakpoint
+$desktop: 770px;
+
 // Update blue
 $blue: #72d0eb;
 // Add pink and its invert

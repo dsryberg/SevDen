@@ -1,19 +1,53 @@
 <!doctype html>
-<html>
+<html class="has-navbar-fixed-top">
   <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
     <title>{{ title }}</title>
+
+    {% if WEBSERVER_PRODUCTION %}
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.6.1/css/bulma.min.css">
+    {% else %}
+      <link rel="stylesheet" href="/static/css/font-awesome.min.css">
+      <link rel="stylesheet" href="/static/css/bulma.css">
+    {% endif %}
+
+
   </head>
   <body>
-  	{% block pageContent %}
+    <!-- NAV BAR -->
+    <nav class="navbar is-dark is-fixed-top" role="navigation" aria-label="main navigation">
+      <div class="navbar-brand">
+        <!-- navbar items, navbar burger... -->
+        <a class="navbar-item"><img src="static/images/snoo.png"><p class="is-1">Severin Ryberg</p></a>
+      </div>
+
+      <div class="navbar-menu">
+        <!-- navbar start, navbar end -->
+
+        <div class="navbar-end">
+          <a class="navbar-item">Home</a>
+          <a class="navbar-item" href="/static/files/david_severin_ryberg_cv.pdf">CV</a>   
+          <a class="navbar-item">Sandbox</a>   
+          <a class="navbar-item">Blog</a>   
+        </div>
+      </div>
+    </nav>
+
+
+    <!-- CONTENT -->
+    {% block pageContent %}
     {% endblock %}
 
     {% for source in CSS_FILES %}
-    	<link rel="stylesheet" type="text/css" href="{{ source }}">
+      <link rel="stylesheet" type="text/css" href="{{ source }}">
     {% endfor %}
 
     {% for source in JS_FILES %}
-    	<script type="text/javascript" src="{{ source }}"></script>
+      <script type="text/javascript" src="{{ source }}"></script>
     {% endfor %}
+
   </body>
 </html>

@@ -264,7 +264,7 @@ table th {
 
   .is-size-7-tablet {
     font-size: 0.75rem !important; } }
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 769px) {
   .is-size-1-touch {
     font-size: 3rem !important; }
 
@@ -285,7 +285,7 @@ table th {
 
   .is-size-7-touch {
     font-size: 0.75rem !important; } }
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 770px) {
   .is-size-1-desktop {
     font-size: 3rem !important; }
 
@@ -357,16 +357,16 @@ table th {
 @media screen and (min-width: 769px), print {
   .has-text-centered-tablet {
     text-align: center !important; } }
-@media screen and (min-width: 769px) and (max-width: 1023px) {
+@media screen and (min-width: 769px) and (max-width: 769px) {
   .has-text-centered-tablet-only {
     text-align: center !important; } }
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 769px) {
   .has-text-centered-touch {
     text-align: center !important; } }
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 770px) {
   .has-text-centered-desktop {
     text-align: center !important; } }
-@media screen and (min-width: 1024px) and (max-width: 1215px) {
+@media screen and (min-width: 770px) and (max-width: 1215px) {
   .has-text-centered-desktop-only {
     text-align: center !important; } }
 @media screen and (min-width: 1216px) {
@@ -387,16 +387,16 @@ table th {
 @media screen and (min-width: 769px), print {
   .has-text-justified-tablet {
     text-align: justify !important; } }
-@media screen and (min-width: 769px) and (max-width: 1023px) {
+@media screen and (min-width: 769px) and (max-width: 769px) {
   .has-text-justified-tablet-only {
     text-align: justify !important; } }
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 769px) {
   .has-text-justified-touch {
     text-align: justify !important; } }
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 770px) {
   .has-text-justified-desktop {
     text-align: justify !important; } }
-@media screen and (min-width: 1024px) and (max-width: 1215px) {
+@media screen and (min-width: 770px) and (max-width: 1215px) {
   .has-text-justified-desktop-only {
     text-align: justify !important; } }
 @media screen and (min-width: 1216px) {
@@ -417,16 +417,16 @@ table th {
 @media screen and (min-width: 769px), print {
   .has-text-left-tablet {
     text-align: left !important; } }
-@media screen and (min-width: 769px) and (max-width: 1023px) {
+@media screen and (min-width: 769px) and (max-width: 769px) {
   .has-text-left-tablet-only {
     text-align: left !important; } }
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 769px) {
   .has-text-left-touch {
     text-align: left !important; } }
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 770px) {
   .has-text-left-desktop {
     text-align: left !important; } }
-@media screen and (min-width: 1024px) and (max-width: 1215px) {
+@media screen and (min-width: 770px) and (max-width: 1215px) {
   .has-text-left-desktop-only {
     text-align: left !important; } }
 @media screen and (min-width: 1216px) {
@@ -447,16 +447,16 @@ table th {
 @media screen and (min-width: 769px), print {
   .has-text-right-tablet {
     text-align: right !important; } }
-@media screen and (min-width: 769px) and (max-width: 1023px) {
+@media screen and (min-width: 769px) and (max-width: 769px) {
   .has-text-right-tablet-only {
     text-align: right !important; } }
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 769px) {
   .has-text-right-touch {
     text-align: right !important; } }
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 770px) {
   .has-text-right-desktop {
     text-align: right !important; } }
-@media screen and (min-width: 1024px) and (max-width: 1215px) {
+@media screen and (min-width: 770px) and (max-width: 1215px) {
   .has-text-right-desktop-only {
     text-align: right !important; } }
 @media screen and (min-width: 1216px) {
@@ -603,16 +603,16 @@ a.has-text-github:hover, a.has-text-github:focus {
 @media screen and (min-width: 769px), print {
   .is-block-tablet {
     display: block !important; } }
-@media screen and (min-width: 769px) and (max-width: 1023px) {
+@media screen and (min-width: 769px) and (max-width: 769px) {
   .is-block-tablet-only {
     display: block !important; } }
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 769px) {
   .is-block-touch {
     display: block !important; } }
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 770px) {
   .is-block-desktop {
     display: block !important; } }
-@media screen and (min-width: 1024px) and (max-width: 1215px) {
+@media screen and (min-width: 770px) and (max-width: 1215px) {
   .is-block-desktop-only {
     display: block !important; } }
 @media screen and (min-width: 1216px) {
@@ -633,16 +633,16 @@ a.has-text-github:hover, a.has-text-github:focus {
 @media screen and (min-width: 769px), print {
   .is-flex-tablet {
     display: flex !important; } }
-@media screen and (min-width: 769px) and (max-width: 1023px) {
+@media screen and (min-width: 769px) and (max-width: 769px) {
   .is-flex-tablet-only {
     display: flex !important; } }
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 769px) {
   .is-flex-touch {
     display: flex !important; } }
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 770px) {
   .is-flex-desktop {
     display: flex !important; } }
-@media screen and (min-width: 1024px) and (max-width: 1215px) {
+@media screen and (min-width: 770px) and (max-width: 1215px) {
   .is-flex-desktop-only {
     display: flex !important; } }
 @media screen and (min-width: 1216px) {
@@ -663,16 +663,16 @@ a.has-text-github:hover, a.has-text-github:focus {
 @media screen and (min-width: 769px), print {
   .is-inline-tablet {
     display: inline !important; } }
-@media screen and (min-width: 769px) and (max-width: 1023px) {
+@media screen and (min-width: 769px) and (max-width: 769px) {
   .is-inline-tablet-only {
     display: inline !important; } }
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 769px) {
   .is-inline-touch {
     display: inline !important; } }
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 770px) {
   .is-inline-desktop {
     display: inline !important; } }
-@media screen and (min-width: 1024px) and (max-width: 1215px) {
+@media screen and (min-width: 770px) and (max-width: 1215px) {
   .is-inline-desktop-only {
     display: inline !important; } }
 @media screen and (min-width: 1216px) {
@@ -693,16 +693,16 @@ a.has-text-github:hover, a.has-text-github:focus {
 @media screen and (min-width: 769px), print {
   .is-inline-block-tablet {
     display: inline-block !important; } }
-@media screen and (min-width: 769px) and (max-width: 1023px) {
+@media screen and (min-width: 769px) and (max-width: 769px) {
   .is-inline-block-tablet-only {
     display: inline-block !important; } }
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 769px) {
   .is-inline-block-touch {
     display: inline-block !important; } }
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 770px) {
   .is-inline-block-desktop {
     display: inline-block !important; } }
-@media screen and (min-width: 1024px) and (max-width: 1215px) {
+@media screen and (min-width: 770px) and (max-width: 1215px) {
   .is-inline-block-desktop-only {
     display: inline-block !important; } }
 @media screen and (min-width: 1216px) {
@@ -723,16 +723,16 @@ a.has-text-github:hover, a.has-text-github:focus {
 @media screen and (min-width: 769px), print {
   .is-inline-flex-tablet {
     display: inline-flex !important; } }
-@media screen and (min-width: 769px) and (max-width: 1023px) {
+@media screen and (min-width: 769px) and (max-width: 769px) {
   .is-inline-flex-tablet-only {
     display: inline-flex !important; } }
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 769px) {
   .is-inline-flex-touch {
     display: inline-flex !important; } }
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 770px) {
   .is-inline-flex-desktop {
     display: inline-flex !important; } }
-@media screen and (min-width: 1024px) and (max-width: 1215px) {
+@media screen and (min-width: 770px) and (max-width: 1215px) {
   .is-inline-flex-desktop-only {
     display: inline-flex !important; } }
 @media screen and (min-width: 1216px) {
@@ -753,16 +753,16 @@ a.has-text-github:hover, a.has-text-github:focus {
 @media screen and (min-width: 769px), print {
   .is-hidden-tablet {
     display: none !important; } }
-@media screen and (min-width: 769px) and (max-width: 1023px) {
+@media screen and (min-width: 769px) and (max-width: 769px) {
   .is-hidden-tablet-only {
     display: none !important; } }
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 769px) {
   .is-hidden-touch {
     display: none !important; } }
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 770px) {
   .is-hidden-desktop {
     display: none !important; } }
-@media screen and (min-width: 1024px) and (max-width: 1215px) {
+@media screen and (min-width: 770px) and (max-width: 1215px) {
   .is-hidden-desktop-only {
     display: none !important; } }
 @media screen and (min-width: 1216px) {
@@ -783,16 +783,16 @@ a.has-text-github:hover, a.has-text-github:focus {
 @media screen and (min-width: 769px), print {
   .is-invisible-tablet {
     visibility: hidden !important; } }
-@media screen and (min-width: 769px) and (max-width: 1023px) {
+@media screen and (min-width: 769px) and (max-width: 769px) {
   .is-invisible-tablet-only {
     visibility: hidden !important; } }
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 769px) {
   .is-invisible-touch {
     visibility: hidden !important; } }
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 770px) {
   .is-invisible-desktop {
     visibility: hidden !important; } }
-@media screen and (min-width: 1024px) and (max-width: 1215px) {
+@media screen and (min-width: 770px) and (max-width: 1215px) {
   .is-invisible-desktop-only {
     visibility: hidden !important; } }
 @media screen and (min-width: 1216px) {
@@ -1770,10 +1770,10 @@ a.box:active {
 .container {
   margin: 0 auto;
   position: relative; }
-  @media screen and (min-width: 1024px) {
+  @media screen and (min-width: 770px) {
     .container {
-      max-width: 960px;
-      width: 960px; }
+      max-width: 706px;
+      width: 706px; }
       .container.is-fluid {
         margin-left: 32px;
         margin-right: 32px;
@@ -4288,7 +4288,7 @@ a.dropdown-item {
       color: #0a0a0a; }
     .navbar.is-white .navbar-brand .navbar-link::after {
       border-color: #0a0a0a; }
-    @media screen and (min-width: 1024px) {
+    @media screen and (min-width: 770px) {
       .navbar.is-white .navbar-start > .navbar-item,
       .navbar.is-white .navbar-start .navbar-link,
       .navbar.is-white .navbar-end > .navbar-item,
@@ -4326,7 +4326,7 @@ a.dropdown-item {
       color: white; }
     .navbar.is-black .navbar-brand .navbar-link::after {
       border-color: white; }
-    @media screen and (min-width: 1024px) {
+    @media screen and (min-width: 770px) {
       .navbar.is-black .navbar-start > .navbar-item,
       .navbar.is-black .navbar-start .navbar-link,
       .navbar.is-black .navbar-end > .navbar-item,
@@ -4364,7 +4364,7 @@ a.dropdown-item {
       color: #363636; }
     .navbar.is-light .navbar-brand .navbar-link::after {
       border-color: #363636; }
-    @media screen and (min-width: 1024px) {
+    @media screen and (min-width: 770px) {
       .navbar.is-light .navbar-start > .navbar-item,
       .navbar.is-light .navbar-start .navbar-link,
       .navbar.is-light .navbar-end > .navbar-item,
@@ -4402,7 +4402,7 @@ a.dropdown-item {
       color: whitesmoke; }
     .navbar.is-dark .navbar-brand .navbar-link::after {
       border-color: whitesmoke; }
-    @media screen and (min-width: 1024px) {
+    @media screen and (min-width: 770px) {
       .navbar.is-dark .navbar-start > .navbar-item,
       .navbar.is-dark .navbar-start .navbar-link,
       .navbar.is-dark .navbar-end > .navbar-item,
@@ -4440,7 +4440,7 @@ a.dropdown-item {
       color: #fff; }
     .navbar.is-primary .navbar-brand .navbar-link::after {
       border-color: #fff; }
-    @media screen and (min-width: 1024px) {
+    @media screen and (min-width: 770px) {
       .navbar.is-primary .navbar-start > .navbar-item,
       .navbar.is-primary .navbar-start .navbar-link,
       .navbar.is-primary .navbar-end > .navbar-item,
@@ -4478,7 +4478,7 @@ a.dropdown-item {
       color: rgba(0, 0, 0, 0.7); }
     .navbar.is-link .navbar-brand .navbar-link::after {
       border-color: rgba(0, 0, 0, 0.7); }
-    @media screen and (min-width: 1024px) {
+    @media screen and (min-width: 770px) {
       .navbar.is-link .navbar-start > .navbar-item,
       .navbar.is-link .navbar-start .navbar-link,
       .navbar.is-link .navbar-end > .navbar-item,
@@ -4516,7 +4516,7 @@ a.dropdown-item {
       color: #fff; }
     .navbar.is-info .navbar-brand .navbar-link::after {
       border-color: #fff; }
-    @media screen and (min-width: 1024px) {
+    @media screen and (min-width: 770px) {
       .navbar.is-info .navbar-start > .navbar-item,
       .navbar.is-info .navbar-start .navbar-link,
       .navbar.is-info .navbar-end > .navbar-item,
@@ -4554,7 +4554,7 @@ a.dropdown-item {
       color: #fff; }
     .navbar.is-success .navbar-brand .navbar-link::after {
       border-color: #fff; }
-    @media screen and (min-width: 1024px) {
+    @media screen and (min-width: 770px) {
       .navbar.is-success .navbar-start > .navbar-item,
       .navbar.is-success .navbar-start .navbar-link,
       .navbar.is-success .navbar-end > .navbar-item,
@@ -4592,7 +4592,7 @@ a.dropdown-item {
       color: rgba(0, 0, 0, 0.7); }
     .navbar.is-warning .navbar-brand .navbar-link::after {
       border-color: rgba(0, 0, 0, 0.7); }
-    @media screen and (min-width: 1024px) {
+    @media screen and (min-width: 770px) {
       .navbar.is-warning .navbar-start > .navbar-item,
       .navbar.is-warning .navbar-start .navbar-link,
       .navbar.is-warning .navbar-end > .navbar-item,
@@ -4630,7 +4630,7 @@ a.dropdown-item {
       color: #fff; }
     .navbar.is-danger .navbar-brand .navbar-link::after {
       border-color: #fff; }
-    @media screen and (min-width: 1024px) {
+    @media screen and (min-width: 770px) {
       .navbar.is-danger .navbar-start > .navbar-item,
       .navbar.is-danger .navbar-start .navbar-link,
       .navbar.is-danger .navbar-end > .navbar-item,
@@ -4668,7 +4668,7 @@ a.dropdown-item {
       color: #fff; }
     .navbar.is-twitter .navbar-brand .navbar-link::after {
       border-color: #fff; }
-    @media screen and (min-width: 1024px) {
+    @media screen and (min-width: 770px) {
       .navbar.is-twitter .navbar-start > .navbar-item,
       .navbar.is-twitter .navbar-start .navbar-link,
       .navbar.is-twitter .navbar-end > .navbar-item,
@@ -4706,7 +4706,7 @@ a.dropdown-item {
       color: #fff; }
     .navbar.is-linkedin .navbar-brand .navbar-link::after {
       border-color: #fff; }
-    @media screen and (min-width: 1024px) {
+    @media screen and (min-width: 770px) {
       .navbar.is-linkedin .navbar-start > .navbar-item,
       .navbar.is-linkedin .navbar-start .navbar-link,
       .navbar.is-linkedin .navbar-end > .navbar-item,
@@ -4744,7 +4744,7 @@ a.dropdown-item {
       color: #fff; }
     .navbar.is-github .navbar-brand .navbar-link::after {
       border-color: #fff; }
-    @media screen and (min-width: 1024px) {
+    @media screen and (min-width: 770px) {
       .navbar.is-github .navbar-start > .navbar-item,
       .navbar.is-github .navbar-start .navbar-link,
       .navbar.is-github .navbar-end > .navbar-item,
@@ -4904,7 +4904,7 @@ a.navbar-link.is-active {
   height: 1px;
   margin: 0.5rem 0; }
 
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 769px) {
   .navbar > .container {
     display: block; }
 
@@ -4941,7 +4941,7 @@ a.navbar-link.is-active {
 
   html.has-navbar-fixed-bottom-touch {
     padding-bottom: 3.25rem; } }
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 770px) {
   .navbar,
   .navbar-menu,
   .navbar-start,
@@ -5776,7 +5776,7 @@ label.panel-block {
       width: 100%; }
     .column.is-offset-12, .column.is-offset-12-tablet {
       margin-left: 100%; } }
-  @media screen and (max-width: 1023px) {
+  @media screen and (max-width: 769px) {
     .column.is-narrow-touch {
       flex: none; }
     .column.is-full-touch {
@@ -5887,7 +5887,7 @@ label.panel-block {
       width: 100%; }
     .column.is-offset-12-touch {
       margin-left: 100%; } }
-  @media screen and (min-width: 1024px) {
+  @media screen and (min-width: 770px) {
     .column.is-narrow-desktop {
       flex: none; }
     .column.is-full-desktop {
@@ -6251,7 +6251,7 @@ label.panel-block {
   @media screen and (min-width: 769px), print {
     .columns:not(.is-desktop) {
       display: flex; } }
-  @media screen and (min-width: 1024px) {
+  @media screen and (min-width: 770px) {
     .columns.is-desktop {
       display: flex; } }
 
@@ -6366,7 +6366,7 @@ label.panel-block {
       .hero.is-white .subtitle a:not(.button),
       .hero.is-white .subtitle strong {
         color: #0a0a0a; }
-    @media screen and (max-width: 1023px) {
+    @media screen and (max-width: 769px) {
       .hero.is-white .navbar-menu {
         background-color: white; } }
     .hero.is-white .navbar-item,
@@ -6410,7 +6410,7 @@ label.panel-block {
       .hero.is-black .subtitle a:not(.button),
       .hero.is-black .subtitle strong {
         color: white; }
-    @media screen and (max-width: 1023px) {
+    @media screen and (max-width: 769px) {
       .hero.is-black .navbar-menu {
         background-color: #0a0a0a; } }
     .hero.is-black .navbar-item,
@@ -6454,7 +6454,7 @@ label.panel-block {
       .hero.is-light .subtitle a:not(.button),
       .hero.is-light .subtitle strong {
         color: #363636; }
-    @media screen and (max-width: 1023px) {
+    @media screen and (max-width: 769px) {
       .hero.is-light .navbar-menu {
         background-color: whitesmoke; } }
     .hero.is-light .navbar-item,
@@ -6498,7 +6498,7 @@ label.panel-block {
       .hero.is-dark .subtitle a:not(.button),
       .hero.is-dark .subtitle strong {
         color: whitesmoke; }
-    @media screen and (max-width: 1023px) {
+    @media screen and (max-width: 769px) {
       .hero.is-dark .navbar-menu {
         background-color: #363636; } }
     .hero.is-dark .navbar-item,
@@ -6542,7 +6542,7 @@ label.panel-block {
       .hero.is-primary .subtitle a:not(.button),
       .hero.is-primary .subtitle strong {
         color: #fff; }
-    @media screen and (max-width: 1023px) {
+    @media screen and (max-width: 769px) {
       .hero.is-primary .navbar-menu {
         background-color: #ffb3b3; } }
     .hero.is-primary .navbar-item,
@@ -6586,7 +6586,7 @@ label.panel-block {
       .hero.is-link .subtitle a:not(.button),
       .hero.is-link .subtitle strong {
         color: rgba(0, 0, 0, 0.7); }
-    @media screen and (max-width: 1023px) {
+    @media screen and (max-width: 769px) {
       .hero.is-link .navbar-menu {
         background-color: #72d0eb; } }
     .hero.is-link .navbar-item,
@@ -6630,7 +6630,7 @@ label.panel-block {
       .hero.is-info .subtitle a:not(.button),
       .hero.is-info .subtitle strong {
         color: #fff; }
-    @media screen and (max-width: 1023px) {
+    @media screen and (max-width: 769px) {
       .hero.is-info .navbar-menu {
         background-color: #209cee; } }
     .hero.is-info .navbar-item,
@@ -6674,7 +6674,7 @@ label.panel-block {
       .hero.is-success .subtitle a:not(.button),
       .hero.is-success .subtitle strong {
         color: #fff; }
-    @media screen and (max-width: 1023px) {
+    @media screen and (max-width: 769px) {
       .hero.is-success .navbar-menu {
         background-color: #23d160; } }
     .hero.is-success .navbar-item,
@@ -6718,7 +6718,7 @@ label.panel-block {
       .hero.is-warning .subtitle a:not(.button),
       .hero.is-warning .subtitle strong {
         color: rgba(0, 0, 0, 0.7); }
-    @media screen and (max-width: 1023px) {
+    @media screen and (max-width: 769px) {
       .hero.is-warning .navbar-menu {
         background-color: #ffdd57; } }
     .hero.is-warning .navbar-item,
@@ -6762,7 +6762,7 @@ label.panel-block {
       .hero.is-danger .subtitle a:not(.button),
       .hero.is-danger .subtitle strong {
         color: #fff; }
-    @media screen and (max-width: 1023px) {
+    @media screen and (max-width: 769px) {
       .hero.is-danger .navbar-menu {
         background-color: #ff470f; } }
     .hero.is-danger .navbar-item,
@@ -6806,7 +6806,7 @@ label.panel-block {
       .hero.is-twitter .subtitle a:not(.button),
       .hero.is-twitter .subtitle strong {
         color: #fff; }
-    @media screen and (max-width: 1023px) {
+    @media screen and (max-width: 769px) {
       .hero.is-twitter .navbar-menu {
         background-color: #55acee; } }
     .hero.is-twitter .navbar-item,
@@ -6850,7 +6850,7 @@ label.panel-block {
       .hero.is-linkedin .subtitle a:not(.button),
       .hero.is-linkedin .subtitle strong {
         color: #fff; }
-    @media screen and (max-width: 1023px) {
+    @media screen and (max-width: 769px) {
       .hero.is-linkedin .navbar-menu {
         background-color: #0077b5; } }
     .hero.is-linkedin .navbar-item,
@@ -6894,7 +6894,7 @@ label.panel-block {
       .hero.is-github .subtitle a:not(.button),
       .hero.is-github .subtitle strong {
         color: #fff; }
-    @media screen and (max-width: 1023px) {
+    @media screen and (max-width: 769px) {
       .hero.is-github .navbar-menu {
         background-color: #333; } }
     .hero.is-github .navbar-item,
@@ -6993,7 +6993,7 @@ label.panel-block {
 
 .section {
   padding: 3rem 1.5rem; }
-  @media screen and (min-width: 1024px) {
+  @media screen and (min-width: 770px) {
     .section.is-medium {
       padding: 9rem 1.5rem; }
     .section.is-large {
